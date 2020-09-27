@@ -3,7 +3,7 @@ Organizing a queue of people using a Queue Structure (University project for Alg
 
 ---
 
-Instructions: [Alg_2020_2_Trabalho2](https://github.com/joaofavoretti/Cards-game-stack/blob/master/Alg_2020_2_Trabalho2.pdf)
+Instructions: [Alg_2020_2_Trabalho3](https://github.com/joaofavoretti/Organizing-queue/blob/master/Alg_2020_2_Trabalho3.pdf)
 
 ---
 
@@ -12,6 +12,7 @@ Compile with:
   make compile
  ```
  or
+ 
  ```sh
   make all
  ```
