@@ -3,7 +3,7 @@ MAIN = main.c
 PROG = main
 FUNCTIONS = Functions/state-functions.c Functions/IO-Operations.c Functions/queue-Operations.c Functions/queue-Setup.c
 HEADERS = Includes
-OBJECTS = main.o func.o
+OBJECTS = main.o IO-Operations.o queue-Operations.o queue-Setup.o state-functions.o
 
 
 compile: $(OBJECTS)
